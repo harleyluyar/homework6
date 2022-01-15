@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
-                    Image.asset('assets/images/personlogo.png', width: 90.0),
+                    Image.asset('assets/images/guess_logo.png', width: 90.0),
                     SizedBox(width: 8.0),
                     Column(
                       mainAxisSize: MainAxisSize.min,
